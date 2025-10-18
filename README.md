@@ -1,6 +1,6 @@
 # How to use 👍👍👍
 
-  Step 1: Download Files.
+  Step 1: Download Files, then open the Eaglercraft-1.12-Remake-main.
   
   Step 2: Find the Eaglercraftwah.zip file.
 
